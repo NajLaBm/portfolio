@@ -26,7 +26,7 @@
 
 ## Projects
 ### AI-Powered Emotion Recognition
-[Project](https://github.com/NajLaBm/emotionDatection)
+[Project](https://github.com/NajLaBm/AI-EmotionRecognition/tree/main)
 
 Designed a web application dedicated to the healthcare field. This AI-based application detects a patient’s primary emotions to facilitate psychological diagnosis. Emotion detection is performed through the analysis of facial expressions, gestures, vocal tones, and text. I explored several deep learning techniques and used different models such as CNN, BiGRU, and BERT. Following the intelligent diagnosis, the tool generates a detailed psychological report in PDF format.
 
