@@ -1,6 +1,11 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, Flask, Power BI, TensorFlow, Scikit-learn, NLP, Deep Learning
+#### Programming Languages: Java, C#, R, Python
+#### AI Frameworks & Tools: TensorFlow, Scikit-learn, Deep CNN, Librosa, Speech Recognition, Mediapipe
+#### Data Analysis & Processing: NLP, Data Cleaning, Pandas, NumPy, Audio & Image Analysis
+#### Data Collection: Web Scraping, Visual Data Collection (Mediapipe), Google Analytics
+#### DBMS & ETL: SQL Server, MongoDB, SQLite, SSIS,Snowflake, Talend
+#### Visualization Tools: Power BI, Kibana, Matplotlib, Seaborn
 
 ## Education
 - Engineer in Information Technology (Business Intelligence) | ESPRIT (2025)				       		
@@ -12,6 +17,7 @@
 - Fully automated patient management processes and human emotion analysis.
 - Detected emotions through audio, text, and visual data (computer vision).
 - Experimented with advanced architectures (LSTM, CNN, Transformers) to improve emotion classification accuracy.
+
 **Data Analyst Consultante @ Clediss (Feb 2023 - June 2023)**
 - Analyzed client needs and centralized data.
 - Visualized data, analyzed customer satisfaction via Facebook, and predicted the status of fragile situations.
