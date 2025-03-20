@@ -1,5 +1,7 @@
 # Data Scientist
 
+## Technical skills
+
 #### Programming Languages: Java, C#, R, Python
 #### AI Frameworks & Tools: TensorFlow, Scikit-learn, Deep CNN, Librosa, Speech Recognition, Mediapipe
 #### Data Analysis & Processing: NLP, Data Cleaning, Pandas, NumPy, Audio & Image Analysis
