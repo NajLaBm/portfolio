@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Scientist | Data Analyst
 
 ## Technical skills
 
